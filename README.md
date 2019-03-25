@@ -8,6 +8,8 @@ Well, you're in luck!
 
 I created a script that blocks all the useless shit in your life!
 
+(Download the zip file)["https://github.com/GianGonzaga29/block-all-the-useless-shit/archive/master.zip"]
+
 ## Install for Linux
 
 ```bash
