@@ -12,13 +12,15 @@ I created a script that blocks all the useless shit in your life!
 
 > When installing, make sure you are in same directory as the script files.
 
-## Install for Linux
+## Install for Linux/Unix
 
 ```bash
 chmod +x ./install.sh
 
 sudo ./install.sh
 ```
+
+## Install for Windows
 
 ```batch
 start install.bat
