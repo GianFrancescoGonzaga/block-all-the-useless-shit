@@ -10,8 +10,16 @@ I created a script that blocks all the useless shit in your life!
 
 [Download the zip file](https://github.com/GianGonzaga29/block-all-the-useless-shit/archive/master.zip)
 
+> When installing, make sure you are in same directory as the script files.
+
 ## Install for Linux
 
 ```bash
-chmod +x
+chmod +x ./install.sh
+
+sudo ./install.sh
+```
+
+```batch
+start install.bat
 ```
